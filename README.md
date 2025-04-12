@@ -42,6 +42,6 @@
 ## 📬 Let's Connect
 
 - Email: rianfernando@mail.adelphi.edu  
-- [LinkedIn (optional)]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/rian-fernando-16a252296/))  
+- [LinkedIn](https://www.linkedin.com/in/rian-fernando-16a252296/)  
 
 ---
