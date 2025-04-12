@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there, I'm Rian 👋
 
-<!--
-**Rian-Fernando/Rian-Fernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science @ Adelphi University  
+💻 AI Developer | Software Engineer  
+🎯 Building **Gerente**, **Unify**, and other fun projects  
+🌍 Passionate about solving real-world problems through code  
+📈 Active GitHub contributor | Always learning  
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
+- **Gerente** – Smart task manager with modes, folders & stats [🔗](https://github.com/Rian-Fernando/Gerente)
+- **Unify** – College events + social app [🔗](https://github.com/Rian-Fernando/Unify)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+`Python` `JavaScript` `React` `Node.js` `MongoDB` `FastAPI` `Firebase` `TailwindCSS`
+
+## 📊 GitHub Stats
+![Rian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian-Fernando&show_icons=true&theme=tokyonight)
+
+---
+📬 Reach me at: rianfernando@mail.adelphi.edu  
